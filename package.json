@@ -2,7 +2,7 @@
   "name": "WebTech",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/m-yunus/webTech",
+  "homepage": " https://m-yunus.github.io/webTech",
   "dependencies": {
     "@emailjs/browser": "^3.9.1",
     "@iconscout/react-unicons": "^1.1.6",
@@ -11,7 +11,6 @@
     "@testing-library/user-event": "^13.5.0",
     "email": "^0.2.6",
     "framer-motion": "^7.6.15",
-    "gh-pages": "^4.0.0",
     "js": "^0.1.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
@@ -45,5 +44,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
   }
 }
