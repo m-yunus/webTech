@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/webTech/static/css/main.9fd03bba.css",
+    "main.css": "/webTech/static/css/main.d1dbd47e.css",
     "main.js": "/webTech/static/js/main.be9aa234.js",
     "static/media/ecommerce.png": "/webTech/static/media/ecommerce.522da76635d52117102b.png",
     "static/media/sidebar.png": "/webTech/static/media/sidebar.b2225070b8adae68d063.png",
@@ -16,11 +16,11 @@
     "static/media/Vector2.png": "/webTech/static/media/Vector2.28db5bfd58081dd1df1b.png",
     "static/media/glasses.png": "/webTech/static/media/glasses.71d7c1b0ff0b870a9d7d.png",
     "index.html": "/webTech/index.html",
-    "main.9fd03bba.css.map": "/webTech/static/css/main.9fd03bba.css.map",
+    "main.d1dbd47e.css.map": "/webTech/static/css/main.d1dbd47e.css.map",
     "main.be9aa234.js.map": "/webTech/static/js/main.be9aa234.js.map"
   },
   "entrypoints": [
-    "static/css/main.9fd03bba.css",
+    "static/css/main.d1dbd47e.css",
     "static/js/main.be9aa234.js"
   ]
 }
