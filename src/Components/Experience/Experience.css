@@ -54,4 +54,8 @@
     .Experience{
         margin-bottom: 20rem;
     }
+    .Experience{
+        display: flex;
+        flex-direction: column;
+    }
 }

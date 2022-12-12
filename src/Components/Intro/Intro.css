@@ -131,6 +131,6 @@ top: 3%;
     }
     .floating-Div:nth-of-type(1){
         top: -7rem !important;
-
+        margin-left: 3rem;
     }
 }

@@ -2,7 +2,7 @@
   "name": "WebTech",
   "version": "0.1.0",
   "private": true,
-  "homepage": " https://m-yunus.github.io/webTech",
+  "homepage": " https://m-yunus.github.io/webTech/",
   "dependencies": {
     "@emailjs/browser": "^3.9.1",
     "@iconscout/react-unicons": "^1.1.6",
